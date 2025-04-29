@@ -1,0 +1,19 @@
+Governance:
+g_mission: Mission and Engagement
+g_ethics: Ethics and transparency
+Workers
+w_financial: Financial Security
+w_health: Health, Wellness and safety
+w_career:Career development
+w_engagement:Engagement and satisfaction
+Community
+c_diveristy: Diversity, equity and inclusion
+c_economic: Economic impact
+c_civic: Civic engagement and giving
+c_supply: Supply chain management
+e_management: Environmental management
+e_air: Air and climate
+e_water:Water
+e_land: Land and life
+Customers
+c_stewardship: Costumers stewardship
